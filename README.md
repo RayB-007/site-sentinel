@@ -43,4 +43,4 @@ This tool parses HTML, not a rendered browser DOM. It does not execute JavaScrip
 
 ## Portfolio
 
-More projects and background: [rayansh.dev](https://rayansh.dev/projects/).
+More projects and background: [rayansh.dev](https://rayansh.dev/).
